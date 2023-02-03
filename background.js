@@ -1,7 +1,3 @@
-/*--------------------------------------------------------------
->>> BACKGROUND
---------------------------------------------------------------*/
-
 chrome.runtime.onMessage.addListener(function (message, sender, sendResponse) {
 	var action = message.action;
 
