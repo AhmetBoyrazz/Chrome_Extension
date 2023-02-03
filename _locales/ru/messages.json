@@ -1,0 +1,95 @@
+{
+    "areYouSureYouWantToExportTheData": {
+        "message": "Вы действительно хотите экспортировать данные?"
+    },
+    "areYouSureYouWantToImportTheData": {
+        "message": "Вы действительно хотите испортировать данные?"
+    },
+    "black": {
+        "message": "Черная"
+    },
+    "cancel": {
+        "message": "Отмена"
+    },
+    "changeColor": {
+        "message": "Change color"
+    },
+    "changeIcon": {
+        "message": "Change icon"
+    },
+    "color": {
+        "message": "Color"
+    },
+    "create": {
+        "message": "Создать"
+    },
+    "dark": {
+        "message": "Темная"
+    },
+    "dataExportedSuccessfully": {
+        "message": "Данные успешно экспортированы"
+    },
+    "dataImportedSuccessfully": {
+        "message": "Данные успешно импортированы"
+    },
+    "decryption": {
+        "message": "Дешифрование"
+    },
+    "description": {
+        "message": "With the To-Do extension you get a simple popup to capture your ideas, goals and daily tasks."
+    },
+    "encryption": {
+        "message": "Шифрование"
+    },
+    "export": {
+        "message": "Экспорт"
+    },
+    "icons": {
+        "message": "Icons"
+    },
+    "import": {
+        "message": "Импорт"
+    },
+    "language": {
+        "message": "Язык"
+    },
+    "light": {
+        "message": "Светлая"
+    },
+    "lists": {
+        "message": "Списки"
+    },
+    "myTasks": {
+        "message": "Мои задачи"
+    },
+    "newList": {
+        "message": "Новый список"
+    },
+    "newTask": {
+        "message": "Новая задача"
+    },
+    "noLists": {
+        "message": "Нет списков задач"
+    },
+    "noTasks": {
+        "message": "Нет задач"
+    },
+    "ok": {
+        "message": "Окей"
+    },
+    "password": {
+        "message": "Пароль"
+    },
+    "remove": {
+        "message": "Удалить"
+    },
+    "rename": {
+        "message": "Переименовать"
+    },
+    "selectFile": {
+        "message": "Выберите файл"
+    },
+    "theme": {
+        "message": "Тема"
+    }
+}
